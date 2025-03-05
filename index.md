@@ -16,24 +16,26 @@ I work heavily in research bridging the gap between hardware and software, which
   - Below is a tentative schedule. It may be modified to make sure things are not overwhelming. Feel free to progress through the course at your own pace! 
 
 ## Week 1: Getting Started ([Link To Module](./Week_1/module1.md))
-##### Requirements:
+#### Requirements:
 Before starting, please have the following ready:
   - The VScode IDE installed.
 
-The topics this week include:
+#### Topics:
   - The tools we will use for editing and running Python
   - The basic structures and tools Python has
   - The Basics of Algorithmic Thinking (it's not as spooky as you think!)
 
 
 ## Week 2: Reducing Redundancy (In Construction)
-The topics this week include:
+#### Requirements:
+#### Topics:
   - Loops and Decisions
   - Arrays/Lists/Maps
   - Methods
 
 ## Week 3: (In Construction)
-The topics this week include:
+#### Requirements:
+#### Topics:
   - Importing External Libraries
   - Reading and Using Documentation
   - Additional Resources for Self Improvement
