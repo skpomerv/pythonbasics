@@ -1,7 +1,8 @@
 # Welcome to Python Basics
 This is a Short Course for Learning Basic Programming, using Python. Each week, I intend to upload a few videos, as well as make sure that we can do things step-by-step.
-Pardon the plain-ness of the site, it's a bit under construction still!
+Pardon the plain-ness of the site, but I'm trying to keep things simple for now! 
 
+<!--
 #### Who I am:
 My name is Scott Pomerville, I am currently a Research Assistant Professor at Michigan Technological University, my alma mater.
 I attended Michigan Technological University and got my B.S. in Computer Science in 2017, and recieved my Ph.D in Computer Science in 2024.
@@ -36,3 +37,5 @@ The topics this week include:
   - Additional Resources for Self Improvement
 
 ## Week 4: Bringing things Together
+
+-->
