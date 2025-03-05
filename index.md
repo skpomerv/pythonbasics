@@ -19,6 +19,7 @@ I work heavily in research bridging the gap between hardware and software, which
 #### Requirements:
 Before starting, please have the following ready:
   - The VScode IDE installed.
+  - Python version 3.0 or newer installed.
 
 #### Topics:
   - The tools we will use for editing and running Python
