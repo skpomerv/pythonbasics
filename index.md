@@ -3,7 +3,8 @@ This is a Short Course for Learning Basic Programming, using Python. Each week, 
 Pardon the plain-ness of the site, but I'm trying to keep things simple for now! 
 
 #### Who I am:
-![A picture of me at my PhD graduation, sticking my tongue out at the camera.](/media/graduation.jpg "My Graduation.")
+![A picture of me at my PhD graduation, sticking my tongue out at the camera.](./media/graduation.jpg "My Graduation.")
+
 My name is Scott Pomerville, I am currently a Research Assistant Professor at Michigan Technological University, my alma mater.
 I attended Michigan Technological University and got my B.S. in Computer Science in 2017, and recieved my Ph.D in Computer Science in 2024.
 I work heavily in research bridging the gap between hardware and software, which really is just a fancy way to say I am a nerd who ended up with a pretty niche interest. :)
