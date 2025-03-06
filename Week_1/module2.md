@@ -11,7 +11,7 @@
   3. If you have a yellow bar on the bottom left asking you about choosing a version of python, click it and select a version of python that is 3.0 or newer!
 
 
-## [Next Module](./module3.md)
+## [Previous Module](./module1.md) [Next Module](./module3.md)
 
 
 #### [Back to home](../index.md)

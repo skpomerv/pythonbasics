@@ -1,4 +1,4 @@
 # Module 4: Variables
 
 
-## [Next Module](../index.md)
+## [Previous Module](./module3.md) [Next Module](../index.md)
