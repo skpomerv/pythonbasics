@@ -4,9 +4,9 @@
 
 ### Before going to the next page!
 
-    1. Make your own `helloworld.py`, and run it!
+  1. Make your own `helloworld.py`, and run it!
 
-    2. See if you can change what it prints out, so that it prints `Hello, {your name here}!`
+  2. See if you can change what it prints out, so that it prints `Hello, {your name here}!`
 
 
 ## [Next Module](./module4.md)
