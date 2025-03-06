@@ -25,8 +25,6 @@ Before starting, please have the following ready:
   - What is Programming, Anyways?
   - The tools we will use for editing and running Python
   - The basic structures and tools Python has
-    - variables
-    - basic math
 
 
 ## Week 2: Reducing Redundancy (In Construction)
