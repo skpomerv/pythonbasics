@@ -15,6 +15,6 @@
   2. Have a folder you plan to store your code in somewhere you won't forget!
 
 
-## [Next Module](./module2.md)
+## \[[Next Module](./module2.md)\]
 
 #### [Back to home](../index.md)
