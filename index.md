@@ -22,9 +22,11 @@ Before starting, please have the following ready:
   - Python version 3.0 or newer installed.
 
 #### Topics:
+  - What is Programming, Anyways?
   - The tools we will use for editing and running Python
   - The basic structures and tools Python has
-  - The Basics of Algorithmic Thinking (it's not as spooky as you think!)
+    - variables
+    - basic math
 
 
 ## Week 2: Reducing Redundancy (In Construction)
