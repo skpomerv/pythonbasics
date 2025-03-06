@@ -9,4 +9,4 @@
 2. See if you can change what it prints out, so that it prints `Hello, {your name here}!`
 
 
-## [Previous Module](./module2.md) [Next Module](./module4.md)
+## \[[Previous Module](./module2.md)\] \[[Next Module](./module4.md)\]
