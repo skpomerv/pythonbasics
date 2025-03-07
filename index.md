@@ -15,7 +15,7 @@ I work heavily in research bridging the gap between hardware and software, which
   - I have tried to organize these to be a set of modules that are digestable and bite-sized. If you have questions, *mention the week and the module name at the start of your email* so I have a bit of context.
   - Below is a tentative schedule. It may be modified to make sure things are not overwhelming. Feel free to progress through the course at your own pace! 
 
-## Week 1: Getting Started ([Link To Module](./Week_1/module1.md))
+## Week 1: Getting Started ([Link To Modules](./Week_1/module1.md))
 #### Requirements:
 Before starting, please have the following ready:
   - The VScode IDE installed.
@@ -33,6 +33,7 @@ Before starting, please have the following ready:
   - Loops and Decisions
   - Arrays/Lists/Maps
   - Methods
+  - debugging
 
 ## Week 3: (In Construction)
 #### Requirements:
