@@ -27,17 +27,19 @@ Before starting, please have the following ready:
   - The basic structures and tools Python has
 
 
-## Week 2: Reducing Redundancy (In Construction)
+## Week 2: Decisions and Repetition (In Construction)
 #### Requirements:
+  - Assignment from Week 1
 #### Topics:
+  - Booleans
   - Loops and Decisions
-  - Arrays/Lists/Maps
-  - Methods
-  - debugging
+  - Lists/Maps
 
 ## Week 3: (In Construction)
 #### Requirements:
 #### Topics:
+  - Methods
+  - Debugging
   - Importing External Libraries
   - Reading and Using Documentation
   - Additional Resources for Self Improvement
