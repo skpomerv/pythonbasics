@@ -10,7 +10,7 @@
 
   3. Print out the following formatted line `The value you gave me is half of `, followed by twice the value that was stored in doubleMe.
 
-**\[[Click here if you want the answer!](./module1_answer.md)\]**
+**\[[Answer for Module 1](./module1_answer.md)\]**
 
 ## \[[Next Module](./module2.md)\]
 
