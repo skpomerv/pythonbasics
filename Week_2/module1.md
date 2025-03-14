@@ -8,9 +8,9 @@
 
   2. Prompt for user input, asking for an integer. Store it in a variable called "doubleMe".
 
-  3. Print out the following formatted line `The value you printed is half of `, followed by twice the value that was stored in doubleMe.
+  3. Print out the following formatted line `The value you gave me is half of `, followed by twice the value that was stored in doubleMe.
 
-**I will go over the answer on the next page!**
+**\[[Click here if you want the answer!](./module1_answer.md)\]**
 
 ## \[[Next Module](./module2.md)\]
 
