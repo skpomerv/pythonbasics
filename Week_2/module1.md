@@ -6,7 +6,7 @@
 
   1. Make a new .py file in Visual Studio!
 
-  2. Prompt for user input, asking for an integer. Store it in a variable called "doubleMe!"
+  2. Prompt for user input, asking for an integer. Store it in a variable called "doubleMe".
 
   3. Print out the following formatted line `The value you printed is half of `, followed by twice the value that was stored in doubleMe.
 
