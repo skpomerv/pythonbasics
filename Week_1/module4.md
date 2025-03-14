@@ -11,10 +11,14 @@
   2. Create a new python file, called `week1.py`
 
   3. In it, create four variables with different names. Store each of these into each of the variables.
+
     * For the first variable, store the result of a math equation that uses "+", "-", "/", and "\*" in it
+
     * For the second variable, store any random whole number
+
     * For the third variable, use a modulus operator on the second variable, and store the result.
-    * For the last variable, see what happens if you store the following: `"Hello " + "World!"`
+
+    * For the last variable, see what happens if you store the following: "Hello " + "World!"
 
   4. Print out each variable. What does the last variable print out? Was it what you expected?
 

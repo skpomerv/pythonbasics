@@ -29,7 +29,7 @@ Before starting, please have the following ready:
 
 ## Week 2: Decisions and Repetition (In Construction)
 #### Requirements:
-  - Assignment from Week 1
+  - Assignments from Week 1!
 #### Topics:
   - Booleans
   - Loops and Decisions
@@ -39,9 +39,10 @@ Before starting, please have the following ready:
 #### Requirements:
 #### Topics:
   - Methods
-  - Debugging
   - Importing External Libraries
   - Reading and Using Documentation
   - Additional Resources for Self Improvement
 
-## Week 4: Bringing things Together
+## Week 4: (In Construction) 
+  - File I/O
+  - Debugging
