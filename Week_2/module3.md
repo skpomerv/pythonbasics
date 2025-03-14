@@ -25,5 +25,4 @@ print( (firstVal + secondVal) == thirdVal )
 ```
 
 
-<!-- ## \[[Previous Module](./module2.md)\] \[[Next Module](./module4.md)\] -->
-## \[[Previous Module](./module2.md)\] \[Module Under Construction\]
+## \[[Previous Module](./module2.md)\] \[[Next Module](./module4.md)\] 
