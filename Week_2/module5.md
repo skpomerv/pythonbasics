@@ -1,4 +1,4 @@
-# Module 5: Storing Information: Lists and Maps
+# Module 5: Loops! 
 
 
 ### Before going to the next page!

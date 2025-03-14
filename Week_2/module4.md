@@ -1,4 +1,4 @@
-# Module 4: If-Statements and Loops 
+# Module 4: if/elif/else chains 
 
 
 ### Before going to the next page!

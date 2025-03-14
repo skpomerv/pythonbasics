@@ -1,4 +1,4 @@
-# Module 6: One last loop! 
+# Module 6: Storing Information: Lists and Maps
 
 
 ### Before going to the next page!
