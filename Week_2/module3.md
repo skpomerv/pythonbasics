@@ -1,4 +1,4 @@
-# Module 3: If-Statements and Loops
+# Module 3: Logical Operators 
 
 ### Before going to the next page!
 
