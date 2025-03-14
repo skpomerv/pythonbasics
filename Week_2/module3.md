@@ -4,7 +4,7 @@
 
 ### Before going to the next page!
 
-    1. Evaluate what you expect the following code to print (then, test it!)
+1. Evaluate what you expect the following code to print (then, test it!)
 
 ```
 firstVal = 10
