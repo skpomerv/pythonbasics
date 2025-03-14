@@ -12,7 +12,7 @@
 
   3. In it, create four variables with different names. Store each of these into each of the variables.
 
-    * For the first variable, store the result of a math equation that uses "+", "-", "/", and "\*" in it
+    * For the first variable, store the result of a math equation that uses "+", "-", "/", and "*" in it
 
     * For the second variable, store any random whole number
 
