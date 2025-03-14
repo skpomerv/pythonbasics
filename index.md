@@ -31,6 +31,7 @@ Before starting, please have the following ready:
 #### Requirements:
   - Assignments from Week 1!
 #### Topics:
+  - Getting Input
   - Booleans
   - Loops and Decisions
   - Lists/Maps
