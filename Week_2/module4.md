@@ -16,4 +16,4 @@
 
 	5. Otherwise, print "Negative!"
 
-## \[[Previous Module](./module3.md)\] \[[Next Module](../module5.md)\]
+## \[[Previous Module](./module3.md)\] \[[Next Module](./module5.md)\]
