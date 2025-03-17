@@ -12,4 +12,6 @@
     3. If it is not, append it to the empty list.
 4. After the loop is done, print the list, and print it's length!
 
+**\[[Answer for Module 6](./module6_answer.md)\]**
+
 ## \[[Previous Module](./module5.md)\] \[[Next Module](./module7.md)\]
