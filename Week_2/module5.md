@@ -18,4 +18,4 @@
 There are several solutions to the above answer!
 
 
-## \[[Previous Module](./module4.md)\] \[[Next Module](../module6.md)\]
+## \[[Previous Module](./module4.md)\] \[[Next Module](./module6.md)\]
