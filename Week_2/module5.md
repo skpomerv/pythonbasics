@@ -15,7 +15,8 @@
 
 	4. If the number is not divisible by either, just print the number.
 
-There are several solutions to the above answer!
+There are several solutions to the above answer, as this is a classic interview problem called "fizzbuzz".
+**\[[Answer to Module 5 here!](./module5_answer.md)\]**
 
 
 ## \[[Previous Module](./module4.md)\] \[[Next Module](./module6.md)\]
