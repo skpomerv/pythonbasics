@@ -27,7 +27,7 @@ Before starting, please have the following ready:
   - The basic structures and tools Python has
 
 
-## Week 2: Decisions and Repetition (In Construction)
+## Week 2: Decisions and Repetition ([Link To Modules](./Week_2/module1.md))
 #### Requirements:
   - Assignments from Week 1!
 #### Topics:
