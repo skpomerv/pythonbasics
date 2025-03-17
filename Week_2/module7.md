@@ -1,4 +1,4 @@
-# Module 7: Storing Information: Lists and Maps
+# Module 7: Storing Information: Maps
 
 
 ### Before going to the next page!
