@@ -16,4 +16,6 @@
 
 	5. Otherwise, print "Negative!"
 
+**\[[Answer for Module 4](./module4_answer.md)\]**
+
 ## \[[Previous Module](./module3.md)\] \[[Next Module](./module5.md)\]
