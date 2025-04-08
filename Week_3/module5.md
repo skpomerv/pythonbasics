@@ -1,10 +1,23 @@
-# Module 5:  
+# Module 5: Looking at Documentation! 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KQhy7CkM3o?si=Gad-mID7iMTVwxsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Python Standard Library:** https://docs.python.org/3/library/index.html
+**Example 3rd Party Library:** https://pandas.pydata.org/docs/reference/index.html#api
 
-### Before going to the next page!
+### Finishing up this week!
 
-**\[[Answer to Module 5 here!](./module5_answer.md)\]**
+1. A few key terms you might come across in documentation!
+    * Object - A variable that has actions it can take, like how our files can .read() or .close()!
+    * Class - A set of methods all tied to some Object. (This lists the actions an Object can take)
+    * Exception - Any issues that a program may encounter. Similar to an error.
+    * Iterator - Anything that supports the syntax `for some_variable in thing:`, and allows you to loop over the contents
+    * Module - A library to import
+2. Above are two links: The Python Standard Libary, and a commonly used 3rd party library called Pandas.
+    * For Pandas, I link to the "API", which explains the actions and their defined effects.
+
+Each method has parameters. Parameters with `=` are considered optional, since the value on the right is a default value.
+
 
 
 ## \[[Previous Module](./module4.md)\] \[[Back to Home](../index.md)\] 
