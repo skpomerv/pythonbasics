@@ -8,9 +8,11 @@
 2. Create an infinite loop using `while true:`
 
 3. Each loop iteration, read in a user's input.
-    1. If the user input the string `exit`, then use `break` to exit the loop.
+    1. If the user input the string "exit", then use `break` to exit the loop.
     2. Otherwise, write the line into `output.txt`
 
 4. Finally, close the file after the loop is done. 
+
+**\[[Answer for Module 3](./module3_answer.md)\]**
 
 ## \[[Previous Module](./module2.md)\] \[[Next Module](./module4.md)\] 
