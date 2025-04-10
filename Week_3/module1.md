@@ -21,6 +21,8 @@ def getMin(x, y, z):
     * The second time the program calls the method, provide it three Strings (words in "double quotes")
 3. Using the same pattern, make a method that takes 1 parameter called `myArg`, and returns a value equal to `myArg / 2`, then test to see if it works!
 
+**\[[Answer for Module 1](./module1_answer.md)\]**
+
 ## \[[Next Module](./module2.md)\]
 
 #### [Back to home](../index.md)
