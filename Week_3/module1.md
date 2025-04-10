@@ -8,9 +8,9 @@ Try the following!
 Make a python file, and put the following method on top of the file!
 ```
 def getMin(x, y, z):
-    if (x < y & x < z):
+    if (x < y and x < z):
         return x
-    elif (y < x & y < z):
+    elif (y < x and y < z):
         return y
     else:
         return z
@@ -19,7 +19,7 @@ def getMin(x, y, z):
 2. Make a program that uses (or "calls") this method twice.
     * The first time the program calls the method, provide it three integers (whole numbers)
     * The second time the program calls the method, provide it three Strings (words in "double quotes")
-3. Using the same pattern, make a method that takes 1 parameter, and returns a value equal to `parameter / 2`, then test to see if it works!
+3. Using the same pattern, make a method that takes 1 parameter called `myArg`, and returns a value equal to `myArg / 2`, then test to see if it works!
 
 ## \[[Next Module](./module2.md)\]
 
