@@ -5,7 +5,7 @@
 ### Before going to the next page!
 1. Create program that opens a file called `output.txt` for writing (not appending).
 
-2. Create an infinite loop using `while true:`
+2. Create an infinite loop using `while True:`
 
 3. Each loop iteration, read in a user's input.
     1. If the user input the string "exit", then use `break` to exit the loop.
