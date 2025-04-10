@@ -36,14 +36,15 @@ Before starting, please have the following ready:
   - Loops and Decisions
   - Lists/Maps
 
-## Week 3: (In Construction)
+## Week 3: Methods, Reading and Writing to Files, and Libraries. ([Link To Modules](./Week_3/module1.md))
 #### Requirements:
 #### Topics:
   - Methods
+  - File I/O
   - Importing External Libraries
   - Reading and Using Documentation
-  - Additional Resources for Self Improvement
 
 ## Week 4: (In Construction) 
-  - File I/O
+  - Planning Projects
   - Debugging
+  - Additional Resources for Self Improvement
