@@ -2,8 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KQhy7CkM3o?si=Gad-mID7iMTVwxsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Python Standard Library:** https://docs.python.org/3/library/index.html
-**Example 3rd Party Library:** https://pandas.pydata.org/docs/reference/index.html#api
+**Python Standard Library:** [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html)
+**Example 3rd Party Library:** [https://pandas.pydata.org/docs/reference/index.html#api](https://pandas.pydata.org/docs/reference/index.html#api)
 
 ### Finishing up this week!
 
