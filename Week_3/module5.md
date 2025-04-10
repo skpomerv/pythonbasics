@@ -28,6 +28,6 @@ Each method has parameters. Parameters with `=` are considered optional, since t
 
 4. Using the same libary, see if you can get it to print a random element from the list. (Hint: Look under "functions for sequences")
 
-**\[[Answer for Module 5](./module5_answer.md)\]**
+**\[[Hints for Module 5](./module5_answer.md)\]**
 
 ## \[[Previous Module](./module4.md)\] \[[Back to Home](../index.md)\] 

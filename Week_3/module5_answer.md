@@ -1,6 +1,7 @@
 # Module 5: Answer  
 
-TBA
+Hints:
+* Look at random.shuffle, and random.choice!
 
 ## \[[Back to Module 5](./module5.md)\]
 
